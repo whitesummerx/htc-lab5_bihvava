@@ -1,0 +1,19 @@
+{
+ "mode": "x1",
+ "lock": "g",
+ "policy": "-",
+ "n": 9,
+ "n_w": 5,
+ "n_r": 4,
+ "D": 10.0,
+ "warmup": 1.0,
+ "python": "3.14.5",
+ "impl": "CPython",
+ "cores": 6,
+ "os": "Windows-11-10.0.26300-SP0",
+ "invariants_ok": true,
+ "invariant_errors": [],
+ "size": 500,
+ "N": 8765111,
+ "X1": 876511.1
+}

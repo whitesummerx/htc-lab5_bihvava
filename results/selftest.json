@@ -1,0 +1,6 @@
+{
+ "mode": "selftest",
+ "peek_does_not_mutate": true,
+ "get_reorders": true,
+ "invariants_ok": true
+}
